@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="润唇膏套装 3 支">
+  <defs>
+    <radialGradient id="g1025a" cx="22%" cy="14%" r="85%">
+      <stop offset="0%" stop-color="#f7eeec"/>
+      <stop offset="100%" stop-color="#f1e1de"/>
+    </radialGradient>
+    <radialGradient id="g1025b" cx="82%" cy="92%" r="70%">
+      <stop offset="0%" stop-color="#b0473f" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#b0473f" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots1025" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.1" fill="#1a1a17" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="600" fill="url(#g1025a)"/>
+  <rect width="600" height="600" fill="url(#dots1025)"/>
+  <rect width="600" height="600" fill="url(#g1025b)"/>
+  <circle cx="300" cy="250" r="132" fill="#ffffff" opacity="0.55"/>
+  <circle cx="300" cy="250" r="132" fill="none" stroke="#b0473f" stroke-opacity="0.28" stroke-width="1.4"/>
+  <ellipse cx="300" cy="392" rx="86" ry="12" fill="#1a1a17" opacity="0.07"/>
+  <svg x="204" y="154" width="192" height="192" viewBox="0 0 24 24" fill="none"
+       stroke="#b0473f" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="9" y="10.2" width="6" height="10.8" rx="1.4" /><path d="M9.4 10.2V6.6L12 3.4l2.6 3.2v3.6" /><path d="M9.6 13.4h4.8" />
+  </svg>
+  <text x="48" y="54" font-size="15" font-weight="700" letter-spacing="0.24em" fill="#b0473f" opacity="0.9">MALL · 美妆</text>
+  <text x="552" y="54" text-anchor="end" font-size="13" font-weight="600" letter-spacing="0.14em" fill="#8a887e">DEMO VISUAL</text>
+  <text x="300" y="462" text-anchor="middle" font-size="32" font-weight="700" fill="#1a1a17" letter-spacing="0.02em">润唇膏套装 3 支</text>
+  <text x="300" y="510" text-anchor="middle" font-size="19" font-weight="700" fill="#b0473f" opacity="0.92">¥49.00</text>
+  <text x="48" y="566" font-size="12" font-weight="600" letter-spacing="0.18em" fill="#9c9a90">NO. 1025</text>
+  <text x="552" y="566" text-anchor="end" font-size="12" font-weight="600" letter-spacing="0.18em" fill="#9c9a90">mall.syloe1.xyz</text>
+</svg>

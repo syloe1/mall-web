@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="有机燕麦片 1kg">
+  <defs>
+    <radialGradient id="g1015a" cx="22%" cy="14%" r="85%">
+      <stop offset="0%" stop-color="#f8f1e6"/>
+      <stop offset="100%" stop-color="#f1e6d4"/>
+    </radialGradient>
+    <radialGradient id="g1015b" cx="82%" cy="92%" r="70%">
+      <stop offset="0%" stop-color="#a05a12" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#a05a12" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots1015" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.1" fill="#1a1a17" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="600" fill="url(#g1015a)"/>
+  <rect width="600" height="600" fill="url(#dots1015)"/>
+  <rect width="600" height="600" fill="url(#g1015b)"/>
+  <circle cx="300" cy="250" r="132" fill="#ffffff" opacity="0.55"/>
+  <circle cx="300" cy="250" r="132" fill="none" stroke="#a05a12" stroke-opacity="0.28" stroke-width="1.4"/>
+  <ellipse cx="300" cy="392" rx="86" ry="12" fill="#1a1a17" opacity="0.07"/>
+  <svg x="204" y="154" width="192" height="192" viewBox="0 0 24 24" fill="none"
+       stroke="#a05a12" stroke-width="1.15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4.8 8.4h11.4v5.9a5 5 0 0 1-5 5H9.8a5 5 0 0 1-5-5V8.4Z" /><path d="M16.2 9.6h1.6a2.6 2.6 0 0 1 0 5.2h-1.6" /><path d="M8.2 4.4c0-.9.9-1.4.9-2.2M11.8 4.4c0-.9.9-1.4.9-2.2" />
+  </svg>
+  <text x="48" y="54" font-size="15" font-weight="700" letter-spacing="0.24em" fill="#a05a12" opacity="0.9">MALL · 食品</text>
+  <text x="552" y="54" text-anchor="end" font-size="13" font-weight="600" letter-spacing="0.14em" fill="#8a887e">DEMO VISUAL</text>
+  <text x="300" y="462" text-anchor="middle" font-size="32" font-weight="700" fill="#1a1a17" letter-spacing="0.02em">有机燕麦片 1kg</text>
+  <text x="300" y="510" text-anchor="middle" font-size="19" font-weight="700" fill="#a05a12" opacity="0.92">¥49.90</text>
+  <text x="48" y="566" font-size="12" font-weight="600" letter-spacing="0.18em" fill="#9c9a90">NO. 1015</text>
+  <text x="552" y="566" text-anchor="end" font-size="12" font-weight="600" letter-spacing="0.18em" fill="#9c9a90">mall.syloe1.xyz</text>
+</svg>

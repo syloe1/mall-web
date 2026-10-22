@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# 私有页面：不需要被搜索引擎收录
+Disallow: /admin
+Disallow: /profile
+Disallow: /addresses
+Disallow: /cart
+Disallow: /checkout
+Disallow: /payment
+Disallow: /order-success
+Disallow: /orders
+Disallow: /favorites
+
+Sitemap: https://mall.syloe1.xyz/sitemap.xml
